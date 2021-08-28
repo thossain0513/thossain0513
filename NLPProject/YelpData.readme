@@ -1,1 +1,2 @@
-
+This is a project done using Yelp data found on Kaggle.com. I filtered out the 1 star and 5 star reviews and used Natural Language Processing to determine
+whether a review was a 5-star or a 1-star review. 
