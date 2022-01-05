@@ -1,1 +1,0 @@
-This is a dataset from an insurance company regarding health data from a medical insurance company. I used the SVM method to predict the presence of heart disease in a patient, which showed 83 percent precision.
